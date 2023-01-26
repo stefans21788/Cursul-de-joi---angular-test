@@ -1,0 +1,16 @@
+table, th, td {
+  border: 1px solid black;
+  border-radius: 10px;
+
+}
+table{
+  width: 60%;
+  margin: auto;
+}
+td, th{
+  padding: 10px;
+  padding-left: 15px;
+}
+th{
+  font-size: 150%;
+}
